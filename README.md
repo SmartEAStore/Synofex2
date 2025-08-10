@@ -1,1 +1,2 @@
-# Synofex2
+# RubikChat Starter
+Generated again.
